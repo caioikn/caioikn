@@ -7,3 +7,10 @@ Prazer, Caio! Uma pessoa apaixonada por tecnologia, já trabalhei na área de su
 
 ## 🌐 Sociais
 <a href="https://www.linkedin.com/in/caioikena/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/iknzin"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> <a href="https://www.instagram.com/caioikn/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+## 📈 GitHub Stats
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioikn&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioikn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
