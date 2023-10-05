@@ -12,4 +12,5 @@ Prazer, Caio! Uma pessoa apaixonada por tecnologia, já trabalhei na área de su
 <div>
 <a href="https://github.com/caioikn" />
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioikn&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioikn&show_icons=true&theme=dracula"/>
 </div>
