@@ -19,6 +19,6 @@ Estou me dedicando cada dia mais para poder aumentar meu portfólio. ⭐
 ## 📈 GitHub Stats
 <div>
 <a href="https://github.com/caioikn" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioikn&layout=compact&langs_count=7&theme="/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioikn&layout=compact&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioikn&show_icons=true&theme=dracula"/>
 </div>
