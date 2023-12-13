@@ -2,7 +2,7 @@
 
 Prazer, Caio! 
 <br><br>
-Uma pessoa apaixonada por tecnologia, já trabalhei na área de suporte manipulando banco de dados, mas atualmente estou desbravando o mundo do desenvolvimento front-end. 
+Atualmente sou iniciante na área de desenvolvimento front-end, mas já trabalhei como suporte manipulando banco de dados, mas atualmente estou desbravando o mundo do desenvolvimento front-end. 
 <br><br>
 Ainda não tenho experiência na área, mas estou fazendo cursos focados para essa formação com o objetivo de entrar no mercado de trabalho e seguir nela.
 <br><br>
