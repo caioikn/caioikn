@@ -2,9 +2,7 @@
 
 Prazer, Caio! 
 <br><br>
-Atualmente sou iniciante na área de desenvolvimento front-end, mas já trabalhei como suporte manipulando banco de dados, mas atualmente estou desbravando o mundo do desenvolvimento front-end. 
-<br><br>
-Ainda não tenho experiência na área, mas estou fazendo cursos focados para essa formação com o objetivo de entrar no mercado de trabalho e seguir nela.
+Atualmente sou iniciante na área de desenvolvimento front-end, mas já trabalhei como suporte ao cliente, além de criar a ajustar consultas no banco de dados via MySQL.
 <br><br>
 Aqui você vai encontrar alguns dos projetos que fiz, tendo alguns sites de desafios como base, principalmente o Front End Mentor, além de conteúdos extras da Alura.
 <br><br>
