@@ -1,8 +1,8 @@
 ## 👋 Prazer, Caio!
 
-Sou um apaixonado desenvolvedor front-end em constante busca por criar experiências digitais incríveis e funcionais. Minha jornada na programação começou com a curiosidade de como as coisas funcionavam na web, e desde então venho explorando e aprimorando minhas habilidades para trazer ideias criativas à vida.
+Sou desenvolvedor front-end iniciante em constante busca por criar experiências digitais incríveis e funcionais. Minha jornada na programação começou com a curiosidade de como as coisas funcionavam na web, e desde então venho explorando e aprimorando minhas habilidades para trazer ideias criativas à vida.
 
- Minha área de especialização inclui HTML, CSS, JavaScript e React, e estou sempre empolgado em aprender e implementar as mais recentes tecnologias e tendências no mundo do desenvolvimento web.
+Minha área de especialização inclui HTML, CSS, JavaScript e React, e estou sempre empolgado em aprender e implementar as mais recentes tecnologias e tendências no mundo do desenvolvimento web.
 
 Esteja à vontade para explorar meus repositórios e projetos para ter uma ideia do meu trabalho e, se encontrar algo interessante, não hesite em contribuir ou entrar em contato para trocarmos ideias!
 
