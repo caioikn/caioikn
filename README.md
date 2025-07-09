@@ -1,5 +1,5 @@
 ## Prazer, Caio 👋
-Sou formado em Ciência da Computação com 2 anos de experiência como suporte e database e hoje participo de projetos ágeis como um QA, realizando testes manuais e automatizados em diversos tipos de programas.
+Sou formado em Ciência da Computação com 2 anos de experiência como suporte e database e hoje participo de projetos ágeis atuando como um QA, realizando testes manuais e automatizados em diversos tipos de programas.
 
 ### Tecnologias & Ferramentas
 <div>
