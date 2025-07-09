@@ -1,10 +1,10 @@
-## 👋 Prazer, Caio 
-Sou um entusiasta da área de Qualidade de Software com um perfil hands-on. Minha jornada profissional começou no suporte técnico, onde trabalhei por dois anos utilizando principalmente MySQL. Agora, estou mergulhando fundo no mundo da Qualidade de Software.
+## Prazer, Caio 
+Sou um entusiasta da área de Qualidade de Software com um perfil hands-on. Minha jornada profissional começou no suporte técnico, onde trabalhei por dois anos utilizando principalmente MySQL.
 
-### 🌱 O que estou fazendo atualmente?
+### O que estou fazendo atualmente?
 Atualmente, participo de projetos ágeis atuando como um QA. Estou vivenciando metodologias ágeis como SCRUM, e contribuindo para o desenvolvimento de projetos através de testes manuais e automatizados.
 
-### 💻 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" heigth="40"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" heigth="40"/> 
@@ -19,6 +19,6 @@ Atualmente, participo de projetos ágeis atuando como um QA. Estou vivenciando m
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" heigth="40"/> 
 </div>
 
-### 📫 Como me encontrar?
+### Como me encontrar?
 <a href="https://www.linkedin.com/in/caioikena/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:caioikena@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
