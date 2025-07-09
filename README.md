@@ -1,8 +1,8 @@
 ## 👋 Prazer, Caio 
-Sou um entusiasta da área de Qualidade de Software com um perfil hands-on. Minha jornada profissional começou no suporte técnico, onde trabalhei por dois anos utilizando principalmente MySQL. Agora, estou mergulhando fundo no mundo da Engenharia de Testes.
+Sou um entusiasta da área de Qualidade de Software com um perfil hands-on. Minha jornada profissional começou no suporte técnico, onde trabalhei por dois anos utilizando principalmente MySQL. Agora, estou mergulhando fundo no mundo da Qualidade de Software.
 
 ### 🌱 O que estou fazendo atualmente?
-Atualmente, faço parte de um grupo colaborativo onde tenho a oportunidade de atuar como Engenheiro de Teste. Nesse ambiente dinâmico, estou vivenciando metodologias ágeis como SCRUM, e contribuindo para o desenvolvimento de projetos através de testes manuais e automatizados.
+Atualmente, participo de projetos ágeis atuando como um QA. Estou vivenciando metodologias ágeis como SCRUM, e contribuindo para o desenvolvimento de projetos através de testes manuais e automatizados.
 
 ### 💻 Tecnologias & Ferramentas
 <div>
