@@ -1,8 +1,5 @@
-## Prazer, Caio 
-Sou um entusiasta da área de Qualidade de Software com um perfil hands-on. Minha jornada profissional começou no suporte técnico, onde trabalhei por dois anos utilizando principalmente MySQL.
-
-### O que estou fazendo atualmente?
-Atualmente, participo de projetos ágeis atuando como um QA. Estou vivenciando metodologias ágeis como SCRUM, e contribuindo para o desenvolvimento de projetos através de testes manuais e automatizados.
+## Prazer, Caio 👋
+Sou formado em Ciência da Computação com 2 anos de experiência como suporte e database e hoje participo de projetos ágeis como um QA, realizando testes manuais e automatizados em diversos tipos de programas.
 
 ### Tecnologias & Ferramentas
 <div>
